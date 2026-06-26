@@ -40,7 +40,7 @@ This starts with buyer research and voice-of-customer research (1st and 3rd part
 
 \## Post 2 — Third-Party Signals vs. First-Party Content (1 day ago)
 
-https://www.linkedin.com/posts/iamalexbirkett\_anyone-can-game-what-they-say-about-themselves-activity-7475869158866452480-lu15
+<https://www.linkedin.com/posts/iamalexbirkett\_anyone-can-game-what-they-say-about-themselves-activity-7475869158866452480-lu15>
 
 
 
