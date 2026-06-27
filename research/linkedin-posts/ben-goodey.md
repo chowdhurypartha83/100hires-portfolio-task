@@ -4,13 +4,13 @@
 
 Runs SEO growth agency, Spicy Margarita
 
-Profile: https://www.linkedin.com/in/benjamingoodey/
+Profile: <https://www.linkedin.com/in/benjamingoodey/>
 
 
 
 \## Post 1 — Translation/Localization AI Visibility Study (2 weeks ago)
 
-https://www.linkedin.com/posts/benjamingoodey\_final-results-are-in-does-translating-content-activity-7470807087657324545-7C2p
+<https://www.linkedin.com/posts/benjamingoodey_final-results-are-in-does-translating-content-activity-7470807087657324545-7C2p>
 
 
 
@@ -36,7 +36,7 @@ Disclosure: the research was sponsored by Weglot, but they didn't influence the 
 
 \## Post 2 — Backlink Reverse-Engineering Tactics (3 weeks ago)
 
-https://www.linkedin.com/posts/benjamingoodey\_most-teams-we-work-with-really-struggle-to-activity-7468267941113954304-PuAn
+<https://www.linkedin.com/posts/benjamingoodey_most-teams-we-work-with-really-struggle-to-activity-7468267941113954304-PuAn>
 
 
 
@@ -62,7 +62,7 @@ Proper brand building and great content do a lot of authority-building organical
 
 \## Post 3 — Long-Tail Keywords as a Proxy for LLM Search Behavior (1 month ago)
 
-https://www.linkedin.com/posts/benjamingoodey\_long-tail-keywords-are-one-of-the-closest-activity-7460669161699049473-Yh3z
+<https://www.linkedin.com/posts/benjamingoodey_long-tail-keywords-are-one-of-the-closest-activity-7460669161699049473-Yh3z>
 
 
 
@@ -80,7 +80,7 @@ Simple method using Semrush: enter a software head term, apply a "Word Count" fi
 
 \## Post 4 — Site Security and Content Quality Protection Case Study (1 month ago)
 
-https://www.linkedin.com/posts/benjamingoodey\_were-seeing-a-lot-of-big-sites-getting-hammered-activity-7454499702928011265-NVvA
+<https://www.linkedin.com/posts/benjamingoodey_were-seeing-a-lot-of-big-sites-getting-hammered-activity-7454499702928011265-NVvA>
 
 
 

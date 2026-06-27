@@ -4,13 +4,13 @@
 
 Co-founder, Omniscient Digital | Organic Growth, AI Search/AEO, and SEO for B2B Brands
 
-Profile: https://www.linkedin.com/in/iamalexbirkett
+Profile: <https://www.linkedin.com/in/iamalexbirkett>
 
 
 
 \## Post 1 — Prompt Tracking Selection Methodology (7 hours ago)
 
-https://www.linkedin.com/posts/iamalexbirkett\_how-do-you-choose-which-prompts-to-track-activity-7476227820239757314-nizO
+<https://www.linkedin.com/posts/iamalexbirkett_how-do-you-choose-which-prompts-to-track-activity-7476227820239757314-nizO>
 
 
 
@@ -40,7 +40,7 @@ This starts with buyer research and voice-of-customer research (1st and 3rd part
 
 \## Post 2 — Third-Party Signals vs. First-Party Content (1 day ago)
 
-<https://www.linkedin.com/posts/iamalexbirkett\_anyone-can-game-what-they-say-about-themselves-activity-7475869158866452480-lu15>
+<https://www.linkedin.com/posts/iamalexbirkett_anyone-can-game-what-they-say-about-themselves-activity-7475869158866452480-lu15>
 
 
 
@@ -62,7 +62,7 @@ A useful litmus test for marketing leaders: "Do we have a plan to monitor and en
 
 \## Post 3 — May Client Data: AI Traffic Gains and Measurement Caveats (1 week ago)
 
-https://www.linkedin.com/posts/iamalexbirkett\_reviewed-client-account-data-for-may-big-activity-7471882887819100160-4D7n
+<https://www.linkedin.com/posts/iamalexbirkett_reviewed-client-account-data-for-may-big-activity-7471882887819100160-4D7n>
 
 
 
@@ -84,7 +84,7 @@ No single metric tells the whole story, so the approach is to look at metric con
 
 \## Post 4 — AI Search as a "Multiplayer Reputation System" (4 weeks ago)
 
-https://www.linkedin.com/posts/iamalexbirkett\_ai-search-turns-brand-perception-into-a-multiplayer-activity-7466084696029024257-btsC
+<https://www.linkedin.com/posts/iamalexbirkett_ai-search-turns-brand-perception-into-a-multiplayer-activity-7466084696029024257-btsC>
 
 
 

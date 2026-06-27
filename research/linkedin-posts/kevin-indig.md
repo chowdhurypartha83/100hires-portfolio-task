@@ -4,13 +4,13 @@
 
 Growth advisor (Dropbox, Reddit, Meta) | Author, Growth Memo newsletter
 
-Profile: https://www.linkedin.com/in/kevinindig/
+Profile: <https://www.linkedin.com/in/kevinindig/>
 
 
 
 \## Post 1 — Off-Property Reputation Drives AI Citation Gaps (1 week ago)
 
-https://www.linkedin.com/posts/kevinindig\_two-brands-can-run-identical-on-page-optimization-activity-7473336241837731841-Dl3f
+<https://www.linkedin.com/posts/kevinindig_two-brands-can-run-identical-on-page-optimization-activity-7473336241837731841-Dl3f>
 
 
 
@@ -32,7 +32,7 @@ With optimization roughly equal, the brand that wins is the one AI already trust
 
 \## Post 2 — Topic-Specific AI Citation Data (1 week ago)
 
-https://www.linkedin.com/posts/kevinindig\_ai-trusts-a-different-set-of-sources-for-activity-7472249744724156417-dz3F
+<https://www.linkedin.com/posts/kevinindig_ai-trusts-a-different-set-of-sources-for-activity-7472249744724156417-dz3F>
 
 
 
@@ -54,7 +54,7 @@ Owned content still matters, but it's one of your weaker inputs. Map the specifi
 
 \## Post 3 — Prompt Tracking Sample Design Framework (2 weeks ago)
 
-https://www.linkedin.com/posts/kevinindig\_good-prompt-tracking-starts-with-sample-design-activity-7470197035565002752-T8ow
+<https://www.linkedin.com/posts/kevinindig_good-prompt-tracking-starts-with-sample-design-activity-7470197035565002752-T8ow>
 
 
 
@@ -76,7 +76,7 @@ The panel also needs personas — CFO, IT, and marketing buyers evaluate the sam
 
 \## Post 4 — "Intent Compression" from AI Overviews (3 weeks ago)
 
-https://www.linkedin.com/posts/kevinindig\_for-20-years-what-you-searched-told-google-activity-7467298708678840320-3gvl
+<https://www.linkedin.com/posts/kevinindig_for-20-years-what-you-searched-told-google-activity-7467298708678840320-3gvl>
 
 
 

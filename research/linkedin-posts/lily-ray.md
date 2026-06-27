@@ -4,13 +4,13 @@
 
 VP, SEO \& AI Search at Amsive | Founder, Algorythmic
 
-Profile: https://www.linkedin.com/in/lily-ray-44755615
+Profile: <https://www.linkedin.com/in/lily-ray-44755615>
 
 
 
 \## Post 1 — Google's AI Training Compensation Stance (Today)
 
-https://www.linkedin.com/feed/update/urn:li:activity:7476235005812318209/
+<https://www.linkedin.com/feed/update/urn:li:activity:7476235005812318209/>
 
 
 
@@ -36,7 +36,7 @@ I will certainly be watching this space closely. Personally, I believe all conte
 
 \## Post 2 — Rick Steves as the "E-E-A-T Method" Case Study (2 days ago)
 
-https://www.linkedin.com/posts/lily-ray-44755615\_a-couple-years-back-the-website-rickstevescom-activity-7475262775523733504-A6xN/
+<https://www.linkedin.com/posts/lily-ray-44755615_a-couple-years-back-the-website-rickstevescom-activity-7475262775523733504-A6xN/>
 
 
 
@@ -66,7 +66,7 @@ His content strategy is diversified across TV, YouTube, TikTok, radio/podcast, a
 
 \## Post 3 — Comparison/Alternative Pages as the Next Spam Target (1 week ago)
 
-https://www.linkedin.com/posts/lily-ray-44755615\_i-think-the-next-frontier-of-spam-fighting-activity-7472261355274817538-Xv\_f/
+<https://www.linkedin.com/posts/lily-ray-44755615_i-think-the-next-frontier-of-spam-fighting-activity-7472261355274817538-Xv_f/>
 
 
 
@@ -88,7 +88,7 @@ I believe Google, OpenAI, and other AI companies will increasingly lean on Reddi
 
 \## Post 4 — Google Sheets AI Formula for Keyword-to-Prompt Conversion (2 weeks ago)
 
-https://www.linkedin.com/posts/lily-ray-44755615\_heres-a-little-hack-ive-been-using-to-quickly-activity-7470166067043147776-6kTD
+<https://www.linkedin.com/posts/lily-ray-44755615_heres-a-little-hack-ive-been-using-to-quickly-activity-7470166067043147776-6kTD>
 
 
 

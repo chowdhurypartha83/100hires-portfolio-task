@@ -4,13 +4,13 @@
 
 Co-founder, Grow and Convert (SEO and GEO agency), Traqer.ai (AI visibility platform), WaveWriter.ai
 
-Profile: https://www.linkedin.com/in/deveshkhanal
+Profile: <https://www.linkedin.com/in/deveshkhanal>
 
 
 
 \## Post 1 — LLM Personalization Breaks Single-Prompt Visibility Tracking (1 week ago)
 
-https://www.linkedin.com/posts/deveshkhanal\_on-the-left-is-an-actual-prompt-and-answer-activity-7473516484342726656-VANT
+<https://www.linkedin.com/posts/deveshkhanal_on-the-left-is-an-actual-prompt-and-answer-activity-7473516484342726656-VANT>
 
 
 
@@ -34,7 +34,7 @@ What this means for GEO/AEO strategy:
 
 \## Post 2 — SEO Presence Study for ChatGPT's Cited Sources (1 week ago)
 
-https://www.linkedin.com/posts/deveshkhanal\_more-evidence-that-seo-geo-it-looks-like-activity-7472301953658564608-8b4U
+<https://www.linkedin.com/posts/deveshkhanal_more-evidence-that-seo-geo-it-looks-like-activity-7472301953658564608-8b4U>
 
 
 
@@ -60,7 +60,7 @@ Yes, ChatGPT isn't Google, but a higher percentage of its cited sources DID have
 
 \## Post 3 — Business Loan Client Case Study: Keyword Rankings + AI Visibility (3 weeks ago)
 
-https://www.linkedin.com/posts/deveshkhanal\_1-seo-takes-time-2-seo-still-works-activity-7468051453753057280-dXvW
+<https://www.linkedin.com/posts/deveshkhanal_1-seo-takes-time-2-seo-still-works-activity-7468051453753057280-dXvW>
 
 
 
@@ -82,7 +82,7 @@ While people on LinkedIn talk about "schema," "llms.txt," and "optimizing FAQs,"
 
 \## Post 4 — SEO Tools Brand-Mention Study Across 5 LLMs (1 month ago)
 
-https://www.linkedin.com/posts/deveshkhanal\_ok-we-asked-about-seo-tools-7-different-ways-activity-7462350595555844097-piUM
+<https://www.linkedin.com/posts/deveshkhanal_ok-we-asked-about-seo-tools-7-different-ways-activity-7462350595555844097-piUM>
 
 
 
